@@ -12,7 +12,7 @@ Public Class Program
 
     Public ReadOnly Property Version As String Implements IScript.Version
         Get
-            Return "1.0.0.0"
+            Return "1.0.0.1"
         End Get
     End Property
 
