@@ -1,0 +1,16 @@
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\ShulepinMalphite.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\ShulepinMalphite.pdb
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\ShulepinMalphite.xml
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\HesaEngine.Core.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\SharpDX.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\HesaEngine.Wrapper.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\obj\Debug\ShulepinMalphite.vbprojResolveAssemblyReference.cache
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\obj\Debug\ShulepinMalphite.Resources.resources
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\obj\Debug\ShulepinMalphite.vbproj.GenerateResource.Cache
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\obj\Debug\ShulepinMalphite.dll
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\obj\Debug\ShulepinMalphite.xml
+C:\Users\Shulepin\Documents\Visual Studio 2017\Projects\VB\ShulepinMalphite\ShulepinMalphite\obj\Debug\ShulepinMalphite.pdb
